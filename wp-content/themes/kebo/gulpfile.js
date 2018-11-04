@@ -41,7 +41,7 @@ gulp.task('sass', function() {
 });
 
 gulp.task('cssmin', ['sass'], function() {
-  return gulp.src('assets/css/app.css')
+  return gulp.src('assets/css/theme.css')
       .pipe($.cssmin())
       .pipe($.header(banner))
       .pipe($.rename('style.css'))
