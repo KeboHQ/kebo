@@ -1,0 +1,9 @@
+# WordPress
+wp-content/uploads/
+wp-config.php
+
+# Composer
+/vendor/
+
+# NPM
+/node_modules/
