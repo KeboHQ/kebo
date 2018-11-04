@@ -100,6 +100,16 @@ function new_excerpt_more( $more ) {
 add_filter( 'excerpt_more', 'new_excerpt_more', 21 );
 
 /**
+ * Custom template tags for this theme.
+ */
+require get_template_directory() . '/inc/template-tags.php';
+
+/**
+ * Functions which handle Icons.
+ */
+require get_template_directory() . '/inc/icons.php';
+
+/**
  * Death to Emojii
  */
 remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
