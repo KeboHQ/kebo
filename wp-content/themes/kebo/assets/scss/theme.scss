@@ -1,0 +1,12 @@
+// Theme File
+
+@import 'variables';
+@import 'utils';
+
+@import 'modules/reset';
+@import 'modules/global';
+@import 'modules/layout';
+
+body {
+    color: color(blue);
+}

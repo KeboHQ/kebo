@@ -1,0 +1,6 @@
+// Utilities
+
+// Helper to get Color values
+@function color( $color-name ) {
+    @return map-get( $colors, $color-name );
+}

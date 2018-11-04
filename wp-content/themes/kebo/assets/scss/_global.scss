@@ -1,0 +1,20 @@
+// Global Styles
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: $body-background;
+    font-family: $body-font-family;
+    font-size: $global-font-size;
+    line-height: $global-lineheight;
+    color: $body-font-color;
+    text-rendering: optimizeLegibility;
+}

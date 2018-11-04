@@ -1,0 +1,22 @@
+// Theme Variables
+
+// Global
+$global-font-size: 16px;
+$global-lineheight: 1.5;
+
+$body-background: #ffffff;
+$body-font-color: #545455;
+$body-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+
+// Headers
+$header-font-family: $body-font-family;
+$header-font-weight: $global-weight-bold;
+$header-font-style: normal;
+$header-color: inherit;
+$header-lineheight: 1.4;
+$header-margin-bottom: 0.5rem;
+
+// Colors
+$colors: (
+    blue: #0969A2,
+);
