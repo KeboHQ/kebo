@@ -1,3 +1,3 @@
-# Kebo Theme
+# Kebo Website
 
-The WordPress Theme for the Kebo website.
+The WordPress Theme and Plugins for the Kebo website.
