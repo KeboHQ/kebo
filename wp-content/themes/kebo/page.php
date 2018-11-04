@@ -1,6 +1,6 @@
 <?php
 /**
- * Index Template
+ * Page Template
  *
  * @package kebo
  */
