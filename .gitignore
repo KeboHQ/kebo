@@ -1,6 +1,8 @@
 # WordPress
 wp-content/uploads/
+wp-content/plugins/
 wp-config.php
+debug.log
 
 # Composer
 /vendor/
